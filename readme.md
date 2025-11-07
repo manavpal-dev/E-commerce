@@ -100,15 +100,21 @@ http://localhost:5173
 | PATCH | `/api/cart/decrease/:id` | Decrease quantity |
 | DELETE | `/api/cart/:id` | Remove cart item |
 
-## 🎥 Demo Video (Required)
+## 🎥 Demo Video 
 
-Record **1–2 minute** walkthrough:
-- Browse products
-- Add to cart
-- Modify quantity
-- Checkout and receive confirmation
+This video demonstrates the features of a Mock E-Commerce Shopping Cart Application:
+- Product Listing UI
+- Add to Cart functionality
+- Cart Quantity Update (+ / -)
+- Cart Item Removal
+- Checkout modal with receipt generation
 
-Upload as **Unlisted YouTube** and paste link here.
+Tech Stack:
+Frontend: React + TailwindCSS
+Backend: Node.js + Express.js
+Database: MongoDB
+
+Unlisted YouTube link :- https://youtu.be/i2_MgT__7Xs
 
 ## 👨‍💻 Author
 
